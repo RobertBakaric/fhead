@@ -3,12 +3,12 @@ fhead version 1.0
 
 NAME:
 
-Fasta format heah program equivalent
+Fasta format head program equivalent
 
 
 DESCRIPTION:
 
-Program equivalent of {\tt head}, designed for fasta formatted files.
+Program equivalent of  head, designed for fasta formatted files.
 
 
 AUTHOR:
